@@ -1,5 +1,5 @@
 # Sampling Assignment
-### Jashan Arora 102003206 3COE9
+### By: Jashan Arora 102003206 3COE9
 ## Dataset
 The dataset we have consists of **773 rows and 31 columns** and is specifically designed for predicting credit card fraud. It contains 30 input features and 1 output feature, where the input features include a time and amount column, as well as 28 columns obtained through PCA. The output feature, labeled as "Class," indicates whether each record or transaction indicates the occurrence of credit card fraud.
 
@@ -15,7 +15,7 @@ SMOTE works by generating synthetic examples of the minority class based on the 
 
 In our case, we used the SMOTE method from the imblearn library to balance the training dataset. After applying SMOTE, the training dataset now contains **534 records of both classes**, resulting in a balanced dataset. This balanced dataset can then be used to train machine learning models that are less likely to be biased towards the majority class.
 
-## Selecting the Samples
+## Creation of Different Samples Using Various Sampling Techniques
 
 After balancing the dataset, we selected five samples using five different sampling techniques: 
 * Random Sampling
