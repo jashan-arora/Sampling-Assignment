@@ -1,6 +1,6 @@
 # Sampling-Assignment
 
-| index                | Random Sampling     | Systematic Sampling | Stratified Sampling     | Cluster Sampling     | Convenience Sampling |
+|                      | Random Sampling     | Systematic Sampling | Stratified Sampling     | Cluster Sampling     | Convenience Sampling |
 | -------------------- | ------------------- | ------------------- | ----------------------- | -------------------- | -------------------- |
 | Random Forest        | 0\.9870689655172413 | 0\.9827586206896551 | **0\.9913793103448276** | 0\.9870689655172413  | 0\.9870689655172413  |
 | Decision Tree        | 0\.9568965517241379 | 0\.9396551724137931 | 0\.9698275862068966     | 0\.9396551724137931  | 0\.9482758620689655  |
